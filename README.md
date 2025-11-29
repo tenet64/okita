@@ -139,3 +139,6 @@ okita!!は、この中でも特に「連帯責任の高さ」と「同時刻認�
 | 国際化 | rails-i18n |
 
 ※本リリース時にRails8も検討。
+
+### 画面遷移図
+Figma：https://www.figma.com/design/qERPxefI0nsaAF5fa5vKOL/okita--?node-id=0-1&t=2Q0mAchIGa1oodac-1
