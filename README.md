@@ -142,3 +142,6 @@ okita!!は、この中でも特に「連帯責任の高さ」と「同時刻認�
 
 ### 画面遷移図
 Figma：https://www.figma.com/design/qERPxefI0nsaAF5fa5vKOL/okita--?node-id=0-1&t=2Q0mAchIGa1oodac-1
+
+### ER図
+[![ER](https://i.gyazo.com/76c36053ad0fcd4eca1f7d6ff1122efb.png)](https://gyazo.com/76c36053ad0fcd4eca1f7d6ff1122efb)
